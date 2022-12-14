@@ -1,0 +1,2 @@
+# renday
+Record news everyDay!
